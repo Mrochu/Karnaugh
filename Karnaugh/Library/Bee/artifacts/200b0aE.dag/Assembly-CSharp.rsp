@@ -367,6 +367,7 @@
 "Assets/C#/menu_sircuite.cs"
 "Assets/C#/scene_Start_button.cs"
 "Assets/C#/VFD_counter.cs"
+"Assets/C#/VFD_count_button.cs"
 -langversion:9.0
 /deterministic
 /optimize+

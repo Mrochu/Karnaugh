@@ -27,6 +27,10 @@ public class input_manager : singleton_patten<input_manager>
                 temp_obj.GetComponent<scene_Start_button>().click();
                 Debug.Log("button_click");
             }
+            if(temp_obj.tag == "count_button"){
+                temp_obj.GetComponent<VFD_count_button>().click();
+                Debug.Log("button_click");
+            }
         }
     }
 }

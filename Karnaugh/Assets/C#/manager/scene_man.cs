@@ -21,4 +21,8 @@ public class scene_man : singleton_patten<scene_man>
         SceneManager.LoadScene("Menu_scene");
     }
 
+    public void change_game_scene(int scene_number){
+        SceneManager.LoadScene(scene_number.ToString());
+    }
+
 }

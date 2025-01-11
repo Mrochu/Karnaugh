@@ -6,6 +6,7 @@ TagManager:
   tags:
   - button
   - start_button
+  - count_button
   layers:
   - Default
   - TransparentFX

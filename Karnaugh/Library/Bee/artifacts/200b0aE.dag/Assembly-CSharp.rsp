@@ -362,8 +362,11 @@
 "Assets/C#/logic_state.cs"
 "Assets/C#/manager/input_manager.cs"
 "Assets/C#/manager/linerender_manager.cs"
+"Assets/C#/manager/scene_man.cs"
 "Assets/C#/manager/singleton_patten.cs"
 "Assets/C#/menu_sircuite.cs"
+"Assets/C#/scene_Start_button.cs"
+"Assets/C#/VFD_counter.cs"
 -langversion:9.0
 /deterministic
 /optimize+

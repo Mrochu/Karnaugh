@@ -65,14 +65,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/C#/manager/input_manager.cs" />
+    <Compile Include="Assets/C#/manager/scene_man.cs" />
     <Compile Include="Assets/C#/logic_state.cs" />
     <Compile Include="Assets/C#/manager/linerender_manager.cs" />
+    <Compile Include="Assets/C#/scene_Start_button.cs" />
     <Compile Include="Assets/C#/circit_lin.cs" />
     <Compile Include="Assets/C#/camera_raycast.cs" />
     <Compile Include="Assets/C#/line_manager.cs" />
     <Compile Include="Assets/C#/manager/singleton_patten.cs" />
     <Compile Include="Assets/C#/menu_sircuite.cs" />
     <Compile Include="Assets/C#/logic_circuit.cs" />
+    <Compile Include="Assets/C#/VFD_counter.cs" />
     <Compile Include="Assets/C#/click_button.cs" />
   </ItemGroup>
   <ItemGroup>
